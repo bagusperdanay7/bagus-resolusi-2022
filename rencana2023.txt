@@ -9,3 +9,7 @@ Rencana 2023 - 2024
   - Next JS
   - VueJS
 - Golang Framework
+- Machine Learning
+  - Tensorflow
+  - Pytorch
+- Golan
