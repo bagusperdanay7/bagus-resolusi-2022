@@ -11,3 +11,4 @@ Rencana 2023 - 2024
 - Machine Learning
   - Tensorflow
   - Pytorch
+- Golang
