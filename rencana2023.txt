@@ -10,3 +10,4 @@ Rencana 2023 - 2024
   - VueJS
 - Machine Learning
   - Tensorflow
+  - Pytorch
