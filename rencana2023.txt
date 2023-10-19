@@ -8,4 +8,7 @@ Rencana 2023 - 2024
   - ReactJS
   - Next JS
   - VueJS
+- Machine Learning
+  - Tensorflow
+  - Pytorch
 - Golang
