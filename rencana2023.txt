@@ -8,3 +8,4 @@ Rencana 2023 - 2024
   - ReactJS
   - Next JS
   - VueJS
+- Golang
