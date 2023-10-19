@@ -1,0 +1,4 @@
+Rencana 2023 - 2024
+- Belajar Flutter dan Dart
+- Belajar Python Framework
+- Belajar Framework Js dan Lainnya
