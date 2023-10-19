@@ -1,5 +1,6 @@
 Rencana 2023 - 2024
 - Belajar Dart dan Flutter
+- React Native
 - Belajar Python Framework
   - Django
   - Flask
